@@ -39,7 +39,7 @@
 
     h1 {
       text-align: center;
-      background-color: #000;
+      background-color: transparent;
       color: #fff;
       padding: 20px;
       border-radius: 8px;
