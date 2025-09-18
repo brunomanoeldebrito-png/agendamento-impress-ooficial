@@ -1,9 +1,11 @@
-#body {
+body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #f9f9f9 url('https://i.imgur.com/4ZQzJ0s.png') no-repeat center center fixed;
   background-size: cover;
   margin: 0;
-  padding: 20px;
+  padding: 0;
+  position: relative;
+  min-height: 100vh;
 }
 
 body::before {
@@ -35,12 +37,14 @@ h1 {
   padding: 20px;
   border-radius: 8px;
   font-size: 2rem;
+  margin-bottom: 20px;
 }
 
 h2, h3 {
   text-align: center;
   color: #333;
   margin-top: 30px;
+  margin-bottom: 10px;
 }
 
 table {
@@ -91,6 +95,7 @@ input, select {
   width: 100%;
   padding: 10px;
   margin-top: 5px;
+  margin-bottom: 15px;
   border-radius: 6px;
   border: 1px solid #ccc;
   font-size: 16px;
@@ -109,6 +114,12 @@ input, select {
 
   h1 {
     font-size: 1.5rem;
+    padding: 15px;
+  }
+
+  table th, table td {
+    padding: 10px;
+    font-size: 14px;
   }
 }
- agendamento-impress-ooficial
+
