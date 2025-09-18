@@ -39,7 +39,11 @@
 
     h1 {
       text-align: center;
-      background-color: transparent;
+      h1 {
+  background-color: transparent !important;
+  color: #222 !important; /* muda também a cor do texto, se necessário */
+}
+
       color: #fff;
       padding: 20px;
       border-radius: 8px;
