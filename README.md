@@ -159,12 +159,12 @@
         </tr>
         <tr>
           <td>Impressão</td>
-          <td>comum,preto e branco</td>
+          <td>comum preto e branco</td>
           <td>R$ 2,50</td>
         </tr>
       </tbody>
     </table>
-
+    <h4>observação:Se escolhe a opção:impressão la no final vai ter uma opção so para quem escolheu essa opção:envia pdf, peço que logo apos manda o resumo no whatsapp, peço que mande o pdf tabem. </h4>
     <form id="agendamentoForm">
       <!-- Etapa 1 -->
       <div id="etapa-servico">
