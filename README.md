@@ -157,7 +157,7 @@
         </tr>
         <tr>
           <td>Impressão</td>
-          <td>Colorida ou preto e branco</td>
+          <td>comum ou preto e branco</td>
           <td>R$ 2,50</td>
         </tr>
       </tbody>
