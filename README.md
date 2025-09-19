@@ -138,8 +138,10 @@
 <body>
   <div class="container">
     <h1>Impressão Rápida</h1>
-    <h2>Agendamento Online</h2>
+    <h2>Impressão Rápida</h2>
 
+
+    <h3>Agendamento Online</h3>
     <h3>Tabela de Serviços e Preços</h3>
     <table>
       <thead>
@@ -157,7 +159,7 @@
         </tr>
         <tr>
           <td>Impressão</td>
-          <td>comum ou preto e branco</td>
+          <td>comum,preto e branco</td>
           <td>R$ 2,50</td>
         </tr>
       </tbody>
